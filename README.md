@@ -31,6 +31,6 @@ The dataset used for training and testing the models is obtained from a verified
 - KAMLESH BAHETI
 
 ## License
-This project is licensed under the Apache License 2.0, License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Apache License 2.0](LICENSE).
 
-Feel free to contribute and improve this project!
+## Feel free to contribute and improve this project!
