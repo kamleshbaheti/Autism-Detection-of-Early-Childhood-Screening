@@ -13,6 +13,20 @@ This project aims to detect autism in early childhood screening using Support Ve
 - Support Vector Machine (SVM)
 - Matplotlib
 - Seaborn
+  
+## Result of the Model
+
+### Confusion Matrix
+![Confusion Matrix](Result/confusion_matrix.png)
+
+### Boys-Girls Ratio
+![Boys-Girls Ratio](Result/boys_girls_ratio.png)
+
+### Age Distribution Curve
+![Age Distribution Curve](Result/age_distribution_curve.png)
+
+### Feature Importance
+![Feature Importance](Result/feature_importance.png)
 
 ## Instructions
 To run the project:
