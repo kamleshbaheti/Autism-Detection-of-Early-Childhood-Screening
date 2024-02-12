@@ -1,0 +1,5 @@
+Case_No,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Age in Months,Score out of 10,Gender,Region,Jaundice,Family_mem_with_ASD,Who completed the test
+1,0,1,0,1,0,1,0,1,0,1,16,5,f,middle eastern,yes,no,family member
+2,1,0,1,0,1,1,1,0,0,1,36,6,m,asian,no,no,family member
+3,0,0,0,0,0,0,0,0,0,0,5,0,f,asian,no,no,family member
+4,0,1,1,1,0,0,0,0,0,1,13,4,m,middle eastern,yes,yes,family member
