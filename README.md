@@ -1,50 +1,54 @@
 # Autism Detection for Early Childhood Screening
 
 ## Overview
-This project aims to detect autism in early childhood screening using Support Vector Machine (SVM) machine learning models. Two models were developed as part of this project:
+This project aims to detect autism in early childhood screening using Support Vector Machine (SVM) machine learning models. Two models were developed to empower early intervention:
 
-- **Autism_model.ipynb**: This notebook contains the model trained on a verified dataset obtained from a reliable source. It includes code to train the model, create confusion matrices, and generate graphs to visualize the results.
+- **Autism_model.ipynb**: This notebook trains a model on a verified dataset from a reliable source. It includes code for training, confusion matrices, and compelling visualizations. 
 
-- **Autism_input_model.ipynb**: This notebook allows users to input data and apply machine learning techniques based on the training from the previous model. It is designed to take user input and produce output predictions.
+- **Autism_input_model.ipynb**: This user-friendly notebook allows you to input data and leverage machine learning based on the trained model. It's designed to take user input and predict potential outcomes.
 
 ## Technologies Used
+
 - Python
 - Jupyter Notebook
 - Support Vector Machine (SVM)
-- Matplotlib
-- Seaborn
-  
-## Result of the Model
+- Matplotlib (for Data Visualization)
+- Seaborn (for Advanced Data Visualization)
 
-### Confusion Matrix
-![Confusion Matrix](Result/confusion_matrix.png)
+## Model Results
 
-### Boys-Girls Ratio
-![Boys-Girls Ratio](Result/boys_girls_ratio.png)
+**Visualizations:**
+- Confusion Matrix (Result/confusion_matrix.png)
+- Boys-Girls Ratio (Result/boys_girls_ratio.png)
+- Age Distribution Curve (Result/age_distribution_curve.png)
+- Feature Importance (Result/feature_importance.png)
 
-### Age Distribution Curve
-![Age Distribution Curve](Result/age_distribution_curve.png)
-
-### Feature Importance
-![Feature Importance](Result/feature_importance.png)
+These visualizations offer valuable insights into the model's performance and data characteristics.
 
 ## Instructions
-To run the project:
-1. Ensure you have Jupyter Notebook installed or you can install jupyter extension in VS Code.
-2. Clone or download the project repository.
-3. Install all the required modules.
-4. Open the respective IDE:
-   - `Autism_model.ipynb`
-   - `Autism_input_model.ipynb`
-5. Follow the instructions within each notebook to execute the code and interact with the models.
+
+**Get Started:**
+
+1. **Jupyter Notebook:** Ensure you have Jupyter Notebook installed. Alternatively, install the Jupyter extension in VS Code.
+2. **Clone/Download:** Clone or download the project repository.
+3. **Install Modules:** Install all required Python modules (instructions in notebooks).
+4. **Run Models:** Open the respective notebooks:
+   - `Autism_model.ipynb` (for in-depth exploration)
+   - `Autism_input_model.ipynb` (for user input and predictions)
+5. **Follow Instructions:** Each notebook provides detailed guidance on execution and interaction.
 
 ## Dataset
-The dataset used for training and testing the models is obtained from a verified source.
+
+The dataset used for training and testing the models is obtained from a verified source (details provided within).
 
 ## Contributors
-- KAMLESH BAHETI
+
+- KAMLESH BAHETI (Reach out: [kamleshbaheti2232@gmail.com](mailto:kamleshbaheti2232@gmail.com))
 
 ## License
-This project is licensed under the [Apache License 2.0](LICENSE).
 
-## Feel free to contribute and improve this project!
+This project is licensed under the Apache License 2.0 (LICENSE).
+
+## Let's Collaborate!
+
+Feel free to contribute and improve this project! Your insights and expertise are valuable.
