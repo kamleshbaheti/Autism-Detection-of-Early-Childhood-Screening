@@ -52,3 +52,5 @@ This project is licensed under the Apache License 2.0 (LICENSE).
 ## Let's Collaborate!
 
 Feel free to contribute and improve this project! Your insights and expertise are valuable.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamleshbaheti036/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instaram&logoColor=white)](https://www.instagram.com/_kratak_/)
