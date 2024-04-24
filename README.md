@@ -18,10 +18,10 @@ This project aims to detect autism in early childhood screening using Support Ve
 ## Model Results
 
 **Visualizations:**
-- Confusion Matrix (Result/confusion_matrix.png)
-- Boys-Girls Ratio (Result/boys_girls_ratio.png)
-- Age Distribution Curve (Result/age_distribution_curve.png)
-- Feature Importance (Result/feature_importance.png)
+- ![Confusion Matrix](Result/confusion_matrix.png)
+- ![Boys-Girls Ratio](Result/boys_girls_ratio.png)
+- ![Age Distribution Curve](Result/age_distribution_curve.png)
+- ![Feature Importance](Result/feature_importance.png)
 
 These visualizations offer valuable insights into the model's performance and data characteristics.
 
@@ -47,7 +47,7 @@ The dataset used for training and testing the models is obtained from a verified
 
 ## License
 
-This project is licensed under the Apache License 2.0 (LICENSE).
+This project is licensed under the Apache License 2.0.
 
 ## Let's Collaborate!
 
